@@ -1,0 +1,72 @@
+[
+  {
+    "category": "classes",
+    "question": "What dance classes do you offer?",
+    "answer": "We offer 8 dance styles: Ballet (beginner to advanced), Hip Hop, Contemporary, Salsa, Ballroom, Jazz, Tap, and K-Pop. All ages welcome from 5 years old!"
+  },
+  {
+    "category": "schedule",
+    "question": "What are the class timings?",
+    "answer": "Monday-Friday: 4:00 PM - 9:00 PM. Saturday: 9:00 AM - 6:00 PM. Sunday: 10:00 AM - 4:00 PM. Each class is 60 minutes."
+  },
+  {
+    "category": "pricing",
+    "question": "How much do classes cost?",
+    "answer": "Drop-in class: $25. Monthly unlimited: $180 (saves $70). 10-class pack: $220 (valid 3 months). Private lessons: $75/hour. First class is FREE!"
+  },
+  {
+    "category": "instructors",
+    "question": "Who are the instructors?",
+    "answer": "Sarah Johnson (Ballet, 15 yrs exp), Mike Chen (Hip Hop, choreographer), Isabella Rodriguez (Salsa, Latin champion), David Kim (Contemporary), Emma Williams (Jazz & Tap). All certified professionals."
+  },
+  {
+    "category": "beginners",
+    "question": "I'm a complete beginner, which class should I start with?",
+    "answer": "Start with our 'Beginner Ballet' or 'Intro to Hip Hop' - no experience needed! Wear comfortable clothes, bring water. Arrive 10 min early to meet your instructor."
+  },
+  {
+    "category": "kids",
+    "question": "Do you have kids classes?",
+    "answer": "Yes! We have 'Little Movers' (ages 3-5), 'Junior Ballet' (ages 6-9), 'Kids Hip Hop' (ages 7-12), and 'Teen Contemporary' (ages 13-17). All in safe, fun environment."
+  },
+  {
+    "category": "location",
+    "question": "Where are you located?",
+    "answer": "We're at 123 Dance Street, Downtown. Free parking available. Near Metro Station (5 min walk). Wheelchair accessible."
+  },
+  {
+    "category": "booking",
+    "question": "How do I book a class?",
+    "answer": "Book through our website, call (555) 123-DANCE, or visit our front desk. Online booking shows real-time availability. You can book up to 7 days in advance."
+  },
+  {
+    "category": "trial",
+    "question": "Do you offer a free trial?",
+    "answer": "Yes! Your first class is completely FREE. Just bring a valid ID and wear comfortable clothes. We also offer a 2-week trial pass for $49 (unlimited classes)."
+  },
+  {
+    "category": "attire",
+    "question": "What should I wear?",
+    "answer": "Comfortable, breathable clothing. Ballet requires leotard & tights (or fitted clothes). Sneakers for Hip Hop. Bare feet for Contemporary. We sell dancewear at our studio shop."
+  },
+  {
+    "category": "private_lessons",
+    "question": "Do you offer private lessons?",
+    "answer": "Yes! Private 1-on-1 lessons: $75/hour or $210 for 3 sessions. Semi-private (2-3 people): $50/person/hour. Great for fast progress, wedding choreography, competitions."
+  },
+  {
+    "category": "competitions",
+    "question": "Do you have competition teams?",
+    "answer": "Yes! Our award-winning 'Rhythm Force' competition team auditions twice yearly. Categories: Latin, Standard, Hip Hop. Travel opportunities to national & international events."
+  },
+  {
+    "category": "membership",
+    "question": "What membership options do you have?",
+    "answer": "Basic ($180/month - unlimited group classes), Premium ($280/month - includes 2 private lessons), Family ($450/month - 4 family members, all classes), Student ($130/month - with valid ID)."
+  },
+  {
+    "category": "cancellation",
+    "question": "What's your cancellation policy?",
+    "answer": "Cancel 24 hours before class for full refund/credit. Late cancellations: 50% fee. No-shows: full charge. Memberships can be paused for up to 30 days/year."
+  }
+]
